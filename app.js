@@ -5,4 +5,4 @@ var arr = [{
 		Street: "29 Bernard Cres", 
 		Town: "Kingaroy", 
 		Phone: 0408 925 683]}];
-console.log(arr.firstName);
+console.log(arr.firstName + " " + Address[2]);
